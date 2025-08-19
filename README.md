@@ -1,34 +1,32 @@
-# 👋 Hi, I'm Prachi Ghongade!
+# Hi, I'm Prachi 👋  
 
-🎓 I am currently pursuing **Bachelor of Engineering in Computer Science** at **DR Rajendra Gode College of Engineering, Amravati**.  
-
-💻 I am passionate about **web development, data analytics, and coding**. I love building projects that make life easier and visually appealing!  
-
----
-
-## 🔧 Tech Stack
-
-- 🌐 **Frontend:** HTML, CSS, Bootstrap, Tailwind  
-- 🗄️ **Database & Analytics:** SQL, Power BI  
-- ☕ **Programming:** Java  
-- 🛠️ **Other Tools:** Git, GitHub  
+💻 Data & Technology Enthusiast | Passionate about Power BI, SQL, and Data Visualization  
+🚀 Building projects that transform raw data into meaningful insights  
 
 ---
 
-## 📊 What I Love Doing
-
-- Building **responsive websites** 💻  
-- Creating **interactive dashboards** 📈  
-- Solving **data & logic challenges** 🧩  
-- Learning **new technologies** 🚀  
+## 🔹 About Me  
+- Enthusiastic about solving real-world problems with technology  
+- Currently working on projects in *Frontend Development & Data Analytics*  
+- Open to collaborations on impactful projects and learning opportunities  
 
 ---
 
-## 🌟 Fun Fact
-
-I enjoy **exploring design trends**, **analyzing data patterns**, and **turning ideas into projects**!  
+## 🔹 Skills & Tools  
+- *Languages:* SQL, Python, C++  
+- *Data Tools:* Power BI, Excel  
+- *Web:* HTML, CSS, Bootstrap, Tailwind  
+- *Other:* Git, GitHub  
 
 ---
+
+## 🔹 Projects  
+- 🎵 *Spotify Clone (Frontend)* – Built using HTML, CSS, Bootstrap, Tailwind  
+- 🛍️ *Tira Clone (Frontend)* – Interactive UI with responsive design 
+
+---
+
+
 
 ## 📫 Connect with Me
 
@@ -38,4 +36,4 @@ I enjoy **exploring design trends**, **analyzing data patterns**, and **turning 
 
 ---
 
-✨ “Strive for progress, not perfection.” ✨
+✨Always Learning, always building
